@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152724057071",
+    "project_id": "wajhatuk2030-8d8f3",
+    "storage_bucket": "wajhatuk2030-8d8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152724057071:android:7eebe5a0672c58a7e4e41a",
+        "android_client_info": {
+          "package_name": "com.example.wajhatuk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGfLeHFW4qJqLfh5_mcf0zMBFXFWElLjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
